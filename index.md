@@ -7,7 +7,7 @@ I'm a computer engineering major at CSUF who intends to graduate by 2028.
 
 *Lab 4, part 1
 
-  This lab was picked because it was my first proper exposure to coding as a whole. Prior to this class I entered with zero knowledge of coding and the labs before four involved me getting confused. During four I began to understand how the double variables worked and that small moment of understanding was very memorable.
+  This lab was picked because it was my first proper exposure to coding as a whole. Prior to this class I entered with zero knowledge of coding and the labs before four involved me getting confused. During this I began to understand how the double variables worked and that small moment of understanding was very memorable.
 
 *Lab 7, part 1
 
